@@ -1,5 +1,3 @@
-# Lep-Rover-Autonomous-Navigation
-Autonomous Navigation for Leo Rover
 # Leo Rover Autonomous Navigation (ROS 2)
 
 This project enables **autonomous navigation** for a Leo Rover using **ROS 2 Humble**. It includes SLAM, path planning, motion control, IMU filtering, and multi-sensor fusion. The setup is designed for real robot deployment but can also be tested in simulation.
