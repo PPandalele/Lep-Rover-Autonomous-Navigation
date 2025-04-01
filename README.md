@@ -19,4 +19,3 @@ This system uses a modular ROS 2 architecture with the following components:
 
 > The launch file `my_leo.launch.py` integrates all modules for seamless startup.
 
-## 📌 Demo Video
